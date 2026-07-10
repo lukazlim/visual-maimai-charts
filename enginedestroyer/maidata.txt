@@ -1,11 +1,6 @@
 ﻿&title=ENGINEDESTROYER (XDRV Cut)
 &artist=TONITRIBU5
 &first=-0.81
-&lv_4=1
-&des_4=
-&inote_4=
-(204){4},{16},,,,,,,,,,,,
-E
 &lv_5=14+
 &des_5=Lukazio
 &inote_5=
