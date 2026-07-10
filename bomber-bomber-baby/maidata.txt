@@ -1,0 +1,16 @@
+﻿&title=BOMBER!BOMBER!BABY!
+&artist=STEVIE(44MAGNUM) Prod. by L.E.D.
+&first=-1.354
+&des=Lukazio
+&lv_5=13+
+&des_5=Lukazio
+&inote_5=
+(169){4},,,,,,,,1pp3p5[2:3],
+6h[8:13],{8},,,,,,,,,,,B6,
+B2,Cf,,C,,C,,C,
+,C,,C,,C,,3h[8:1],
+{4}8xqq6q4[2:3],3,3,3,
+3,3,3,3>5[8:3],
+{8}4,4,4,4,{16}3,4,{8}2h[8:1],{16}6,2,6,2,
+{4}3bV17q3[8:5]/7bV53q7[8:5],A7f/A3f,
+E
